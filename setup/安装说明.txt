@@ -1,0 +1,27 @@
+请按如下步骤安装：
+==================================================================
+
+1. 先安装VcAgile，运行VcAgileSetup_223.exe
+2. 再安装VcSmith，运行VcSmithSetup_523.exe，按系统提示逐步安装即可。
+
+
+版本说明：
+==================================================================
+VcSmith是VcTester的共享版，而VcSmart是VcSmith的精简版，VcSmith与
+VcSmart是免费版本，VcTester则是商用版本，安装或运行VcSmith不需USB
+软件狗，安装或运行VcTester需要USB软件狗。
+
+其它信息请参考安装目录下readme.txt及VcSmith_help.chm
+
+
+请登陆网站获取最新信息：
+==================================================================
+VcTester官方网站：http://www.ezTester.com
+CSE 语言官方网站：http://www.cse-soft.org
+
+任何问题请反馈至：support@ezTester.com
+
+------------------------
+深圳市领测科技有限公司
+2012.06.02
+------------------------
