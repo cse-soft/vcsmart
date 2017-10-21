@@ -12,6 +12,12 @@ VcAgile、VcSmith、VcTester 均非开源产品，其中 VcTester 还须有 USB 
 
 先安装 VcAgile，然后安装 VcSmith。
 
+[点击下载 VcAgile 安装盘](https://cse-soft.github.io/vcsmith/setup/VcAgileSetup_223.exe)
+
+[点击下载 VcSmith 安装盘](https://cse-soft.github.io/vcsmith/setup/VcSmithSetup_523.exe)
+
 ### 其它
 
-本系列产品从 2012 年 6 月之后就停止维护了，没有技术支持，用户应自行评估使用风险。
+本系列产品从 2012 年 6 月之后就停止维护了，没有技术支持，用户宜自行评估使用风险。
+
+&nbsp;
