@@ -6,6 +6,8 @@ VcAgile、VcSmith、VcTester 是一系列产品，均用来支持 C/C++ 的白�
 
 VcAgile、VcSmith、VcTester 均非开源产品，其中 VcTester 还须有 USB 软件狗才能运行。
 
+&nbsp;
+
 ## 平台要求
 
 只支持 WinXP 与 Win7，其它 windows 平台未验证。本系列工具要求与微软的 Visual Studio 配合使用，支持 VC6、VC7、VC8、VC9，更高 VC 版本未验证。
@@ -24,6 +26,8 @@ VcAgile、VcSmith、VcTester 均非开源产品，其中 VcTester 还须有 USB 
 1. [第 4 代白盒测试方法介绍——理论篇，PDF 格式](https://cse-soft.github.io/vcsmith/doc/4GWM_theory.pdf)
 2. [第 4 代白盒测试方法介绍——VcTester 实践篇，PDF 格式](https://cse-soft.github.io/vcsmith/doc/4GWM_practice.pdf)
 3. [第 4 代白盒测试方法通俗释义，PDF 格式](https://cse-soft.github.io/vcsmith/doc/4GWM_explain.pdf)
+
+&nbsp;
 
 ## 其它
 
