@@ -26,6 +26,9 @@ VcAgile、VcSmith、VcTester 均非开源产品，其中 VcTester 还须有 USB 
 1. [第 4 代白盒测试方法介绍 —— 理论篇，PDF 格式](https://cse-soft.github.io/vcsmith/doc/4GWM_theory.pdf)
 2. [第 4 代白盒测试方法介绍 —— VcTester 实践篇，PDF 格式](https://cse-soft.github.io/vcsmith/doc/4GWM_practice.pdf)
 3. [第 4 代白盒测试方法通俗释义，PDF 格式](https://cse-soft.github.io/vcsmith/doc/4GWM_explain.pdf)
+4. [产品自动化测试的误区，PDF 格式](https://cse-soft.github.io/vcsmith/doc/about_autotest.pdf)
+5. [VcSmith 宣传单，PDF 格式](https://cse-soft.github.io/vcsmith/doc/VcSmith_intro.pdf)
+6. [VcTester 宣传单，PDF 格式](https://cse-soft.github.io/vcsmith/doc/VcTester_intro.pdf)
 
 &nbsp;
 
